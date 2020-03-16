@@ -1,5 +1,7 @@
 # app
 
+[Live Demo](https://tusharkanjariya.github.io/todo-app-vuejs/)
+
 ## Project setup
 ```
 npm install
